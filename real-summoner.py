@@ -4,7 +4,7 @@ import json
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.preprocessing import StandardScaler
 
-API_KEY = 'RGAPI-4409d1f8-98ac-450a-90f2-868f1c8cb44b'
+API_KEY = 'INPUT API KEY HERE'
 REGION = 'na1'
 
 # Function to fetch historical match data, player performance, and match outcomes
